@@ -6,7 +6,7 @@
 Atualmente desenvolvo projetos práticos utilizando Python, Docker, n8n, APIs, bancos de dados e monitoramento, buscando simular ambientes reais de empresas e aplicar boas práticas de engenharia de software e infraestrutura.
 
 ### 🚀 Tecnologias
-- Python | FastAPI | Node.js  
+- Python | FastAPI | Node.js | C, C# | Java
 - Docker | Linux | Zabbix  
 - SQL | MySQL  
 - n8n | Automação de Processos  
